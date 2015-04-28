@@ -1,0 +1,16 @@
+<package>
+  <description brief="KinectVisualization">
+
+     KinectVisualization
+
+  </description>
+  <author>Ryan</author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/KinectVisualization</url>
+  <depend package="rospy"/>
+  <depend package="tf"/>
+
+</package>
+
+
